@@ -12,7 +12,7 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
         <li className="nav-item active">
-        <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
+        <a className="nav-link" href="https://www.aspca.org/news/why-cant-my-cat-be-vegan">Home <span className="sr-only">(current)</span></a>
         </li>
         <li className="nav-item">
         <a className="nav-link" href="/">Post</a>
